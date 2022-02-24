@@ -17,9 +17,7 @@ python manage.py runserver
 Otherwise Mac & Linux
 ```
 python3 manage.py runserver
-
 ```
-
 ---
 
 ## Author
