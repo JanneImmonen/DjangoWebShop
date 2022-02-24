@@ -6,17 +6,15 @@
 
 ---
 
-To get started
-
+🗃 To get started:
 ```
 $ python -m pip install Django
 ```
-Mac & Linux
+If you using Windows
 ```
-python3 manage.py runserver
-
+python manage.py runserver
 ```
-Windows
+Otherwise Mac & Linux
 ```
 python3 manage.py runserver
 
