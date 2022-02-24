@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-🖥 E-commerce website with Django and Python
+🖥 E-commerce website with Django, Python, SQLite and Bootstrap
 
 ---
 
